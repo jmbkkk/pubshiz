@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "ef9bd3b8a9d3e486",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58d750f091632e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb17f6e81d9e95ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "егэшные проблемсы на питоне.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "егэшные проблемсы на питоне"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aed5f743fb95574",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb232ea0d73f3b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc5e0300e48b771",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1cd3b72c8a4aeb5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5feb63781fc9e122",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbbedd0cc2d37e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb003b2a4e0c725b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07aed5cd26daa6af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "егэшные проблемсы на питоне.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для егэшные проблемсы на питоне"
+            }
+          },
+          {
+            "id": "108df990cf7415f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "егэшные проблемсы на питоне.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из егэшные проблемсы на питоне"
+            }
+          },
+          {
+            "id": "3cd3102f91dc1d4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ea4049051de1423c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "егэшные проблемсы на питоне.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура егэшные проблемсы на питоне"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "eb17f6e81d9e95ee",
+  "lastOpenFiles": []
+}
